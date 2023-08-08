@@ -6,3 +6,5 @@ https://github.com/djoslin0/sm64ex-coop
 thats about it
 
 i might add a UI later on
+
+forgot to mention, it can execute things on the server
